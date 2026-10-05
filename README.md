@@ -1,7 +1,7 @@
 README = """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Romaissa Redouane
+**Formation :** M1 MBFA
 **Année :** 2026-2027
 
 ## Description
